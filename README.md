@@ -10,7 +10,7 @@ https://marelycarcamo.github.io/gira-twitter-hover/
 
 El programa realiza las siguientes operaciones:
 
-- **Muestra una imagen**. <p align="justify"> El programa muestra una imagen del logo de Twitter en el centro de la página. La imagen tiene un margen izquierdo de 400px y un margen superior de 100px. La imagen tiene un borde redondeado y un ancho de 400px.</p>
+- <p **Muestra una imagen**. align="justify"> El programa muestra una imagen del logo de Twitter en el centro de la página. La imagen tiene un margen izquierdo de 400px y un margen superior de 100px. La imagen tiene un borde redondeado y un ancho de 400px.</p>
 
 - **Efecto de animación**. <p align="justify"> Cuando se pasa el cursor sobre la imagen, se aplica un efecto de animación. La imagen se escala a 1.1 veces su tamaño original y se rota 360 grados. Además, se aplica una sombra de caja de 10px en todas las direcciones. Este efecto de animación dura 1 segundo. </p>
 
