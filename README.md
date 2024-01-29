@@ -4,7 +4,7 @@ https://marelycarcamo.github.io/gira-twitter-hover/
 
 ## Descripción
 
-<p align="justify">Este es un programa HTML que muestra una imagen del logo de Twitter en el centro de la página. La imagen tiene un efecto de animación cuando se pasa el cursor sobre ella.</p>
+<p align="justify">Este es un proyecto de ejemplo que muestra cómo usar el efecto hover en HTML y CSS para crear una animación de un logo de Twitter. El programa consiste en un archivo HTML que contiene una etiqueta img con el logo de Twitter y un archivo CSS que define el estilo y la transición del logo cuando se pasa el cursor sobre él. El programa es fácil de usar y modificar, solo se necesita un editor de texto y un navegador web. El programa es ideal para principiantes que quieren aprender los conceptos básicos de HTML y CSS y cómo crear efectos visuales con ellos.</p>
 
 ## Funcionalidad
 
